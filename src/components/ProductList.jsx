@@ -69,7 +69,7 @@ function ProductList() {
         <div className="user-list-container">
             <div className="user-list-title-area">
                 <h2>Product Management System</h2>
-                <p>A list of all user accounts in the system including their contact details, age, and gender.</p>
+                <p>A list of all user accounts in the system including their contact details, age, and gender sys.</p>
             </div>
 
             <div className="user-list-actions">
