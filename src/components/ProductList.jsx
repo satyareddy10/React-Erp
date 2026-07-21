@@ -68,7 +68,7 @@ function ProductList() {
     return loading ? (<h1>Loading....</h1>) : (
         <div className="user-list-container">
             <div className="user-list-title-area">
-                <h2>Product Management</h2>
+                <h2>Product Management System</h2>
                 <p>A list of all user accounts in the system including their contact details, age, and gender.</p>
             </div>
 
